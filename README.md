@@ -3,6 +3,7 @@ My App list from [Reddit](https://www.reddit.com/r/macapps/comments/1jea4ua/my_l
 
 </br>
 </br>
+
 Apps marked with **!!** are newly added; please check [Updates](Updates.md) for only the added and removed apps, as well as those I've tried but don't use.
 
 </br>
