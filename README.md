@@ -1,5 +1,11 @@
 # Mac Apps Directors Cut Editon
 My App list from [Reddit](https://www.reddit.com/r/macapps/comments/1jea4ua/my_list_of_macos_apps_because_people_love_these)
+</br>
+</br>
+Apps marked with **!!** are newly added; please check [Updates](Updates.md) for only the added and removed apps, as well as those I've tried but don't use.
+
+
+</br>
 
 # General
 
@@ -15,6 +21,11 @@ My App list from [Reddit](https://www.reddit.com/r/macapps/comments/1jea4ua/my_l
 * [Enhancements For YouTube](https://apps.apple.com/de/app/enhancements-for-youtube/id1643308157?l=en-GB) (**Free**): Safari Extension that skips sponsor blocks on youtube. I only use Safari on the go, but we will come to that. This safes me time, at home I dont skip for my fav. creators.
 * [GoodLinks](https://apps.apple.com/de/app/goodlinks/id1474335294?l=en-GB) (*Paid*):  When I bought this I was not sure I would use this often. I used [raindrop.io](http://raindrop.io), which is completely free [**mac app**](https://raindrop.io/download)**!** While there is not much difference I love how easy it integrates into everything. If you dont wanna spend money on saving links for later, use raindrop. But I love GoodLinks so far! I would love if links marked as “Read” would slide out of the unread section automatically on the mac app like they do in the ios app instead of me having to reload the section, but thats just a small gripe of mine.
 * [Mela](https://apps.apple.com/de/app/mela-recipe-manager/id1568924476?l=en-GB&mt=12) (**Freemium**): Saves your recipes. Great UI, very smooth, definitely worth the money if you like to cook and have tons of recipes somewhere. Bought it years ago, you buy per platform, so you would have to get it seperately for your phone, but the mac version is enough for me.
+* **!!** [FolderPreview](https://apps.apple.com/de/app/folder-preview/id6698876601?l=en-GB&mt=12) (**Free**):  Randomly found this on the App Store. Allows your to use your preview on folders. Super handy, since I tried that all the time, but ofc it doesnt work out of the box.
+* **!!** [Rocket](https://matthewpalmer.net/rocket/) (**Freemium**): Forgot that in my og list, so not really new, but now I add it here. Basically allows you to easily add emojis. Raycast can do the same, or even the function key on a macbook, but I use Alfred and a normal keyboard, so I dont have that key. Instead, I type :: and a popup appears that lets me quickly access emojis. If you use emojis, try this. The free version should be more than enough for most, but if you wanna support the dev, buy the pro version. Alternatively you could use [Emoogle](https://www.emoogle.org/) (**Free, open source**), but it works a little different, so you will have to check if that works for your “workflow”.
+* **!!** [Artykul](https://artykul.org/) (**Freemium**): A beautiful RSS Reader. It is on the pricier side with ~  60€ (if you want the lifetime upgrade), but most RSS readers with its functionality are subscription based without a lifetime option or cost the same, e.g. [Feeder](https://reinventedsoftware.com/feeder/) (*Paid*) for 49€. Currently I am only using the free version, but I will upgrade soon I think!
+
+</br>
 
 # Security & Privacy
 
@@ -23,11 +34,15 @@ My App list from [Reddit](https://www.reddit.com/r/macapps/comments/1jea4ua/my_l
 * [Adguard](https://adguard.com/de/adguard-mac/overview.html) (*Paid*): No explaination needed I hope. Lifetime sub for [12$ on stacksocical](https://www.stacksocial.com/sales/adguard-personal-plan-lifetime-subscription). Works great for all browsers, no need for extensions, and f\*ck google.
 * [LuLu](https://objective-see.org/products/lulu.html) (**Free, open source**): Blocks outgoing connections of apps.I simply block everything going out  and if stuff doesnt work I turn it on.
 
+</br>
+
 # Gaming
 
 * [Moonlight](https://moonlight-stream.org/) (**Free, open source**): I have a beefy (Windows) gaming pc, so I use Moonlight so connect to my Apollo host. At home I have direct ethernet connection so I can stream it without any delay or bitrate problems. When I am on the go I use:
 * [Tailscale](https://tailscale.com/kb/1016/install-mac) (**Free**): So I can be on the same network without having to expose much. Simply log in on both devices and you are ready to go. Alternatively use ZeroTier One.
 * [Whisky](https://getwhisky.app/) (**Free, open source**): Sometimes I want to run a few simple Windows programs and this is faster than connecting to the other pc. Its just a wine GUI, but it works and is simple.
+* **!!** [Parsec](https://parsec.app/) (**Free** or *Subscription*): As I already said before, I am a gamer, but I connect via [Moonlight](https://moonlight-stream.org/)(**Free, open source**) to my windows pc. Now, Moonlight has a problem for me. When I press the Q button, and only when I press that one, the Q button gets stuck. I have to cancel it with Esc, but after that, the Q key doesn't work anymore until I restart my Moonlight connection. So in cases where I'm playing games without a controller, I have to use Parsec until I find the cause. Parsec works great, but I haven't found a way to make it work with graphic quality as good as Moonlight's. The two PCs are connected via direct ethernet, so that's not the problem. I hope I can find out what's causing this soon.
+
 
 # Productivity & Utilities
 
@@ -41,8 +56,9 @@ My App list from [Reddit](https://www.reddit.com/r/macapps/comments/1jea4ua/my_l
 * [PopClip](https://www.popclip.app/) (*Paid*): Great tool to use actions on text you marked. There are a lot of extensions you can simply [download](https://www.popclip.app/extensions/).  I use it so much and miss it the second I use a pc without it. Even if it is just for a quick translation or to google what I marked. Love it.
 * [Shottr](https://shottr.cc/) (**Freemium**): Screenshot tool. I got this and never tried another one. You can pay if you want to support development, but the free version has no limits. It just does everything I want from a screenshot app. **EDIT: you cannot create Captures and a Gradient background without paying.**
 * [VoiceInk](https://github.com/Beingpax/VoiceInk) (*Paid*, **open source**) The best transcription app I have found. The dev is super active, helpful and updates come in regularly. And its a one time purchase of only 19$. I bought it once for me and once for my wife and it just saves sooooo much time. I also tried [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) (**Freemium**) but I prefer VoiceInk. Only thing I miss is live transcription.
+* **!!** [RewriteBar](https://rewritebar.com/) (*Paid* or *Subscription*): It's an AI tool, mainly designed for grammar checking and improving writing. Just mark your text, press the hotkey that you’ve assigned, and either use one of the predefined actions or create your own ones. Super customizable and also way cheaper than Kerlig, which I will talk about in the “did not stay section”. They offer either the option to let you use their subscription, so you don't have to provide your own API key, or you use your own API keys for a one-time payment. This also does not seem to have an “update time limit” of a year, which is great. So far, very impressive. I found Kerlig earlier, which is why I used it until now, but I immediately went with RewriteBar. Thanks to the user on reddit who recommended it. Also has a PopClip extension that you can install from the app itself.
 
-# Browsers & Web Development
+# Browsers
 
 * [Arc](https://arc.net/) (**Free**): The dead one. No more development. Still the browser I use the most. If they would have at least added the mac passkey support. Everything else I want from it works. [SigmaOs](https://sigmaos.com/) (**Freemium**) is the “alternative” but I am not sure if its still updated, never ever have I seen such an intransparent product.
 * [Orion](https://kagi.com/orion/) (**Free**): Webkit Browser with vertical Tabs. Gets updates regularly, I like it and use it whenevery I am on the go. And if I don’t accidentally use Safari anyway.
@@ -53,6 +69,7 @@ My App list from [Reddit](https://www.reddit.com/r/macapps/comments/1jea4ua/my_l
 * [Panda](https://community.bear.app/t/panda-update-new-beta-available-now/12054) (**Free**): It is, as far as I know, the markdown editor of Bear. I use it all the time when I want to edit some textfiles. Its of course not really supported since it was released to test the editor, so its just an old beta product.
 * [Day One](https://apps.apple.com/de/app/day-one/id1055511498?l=en-GB&mt=12) (**Free** or *Subscription*): A journal App. Since Apple hasnt released their app for MacOS yet, I use Day One and [Everlog](https://apps.apple.com/de/app/everlog-journal/id1519935634?l=en-GB) (**Freemium**). I prefer Day One, but Everlog has a One Time Purchase option. I am still testing both and I am still not sure which one I will use in the future. Both are great.
 * [ProNotes](https://www.pronotes.app/) (**Freemium**): Basically allows Markdown in the Apple Notes app, has the option to add AI features etc. If you do not need AI features its free. Great app.
+* **!!** [Antinote](https://antinote.io/) (*Paid*): Antinote is the perfect “Scratchpad” notepad for me. I have it constantly running to calc or write down stuff before I clean it up and put into my notes app. Its a temporary note holder. Also, lovely developer, very active. Highly recommend it.
 
 # Development & Coding
 
@@ -67,7 +84,7 @@ My App list from [Reddit](https://www.reddit.com/r/macapps/comments/1jea4ua/my_l
 
 # System & Menubar
 
-* [Barbee](https://apps.apple.com/de/app/barbee-hide-menu-bar-items/id1548711022?l=en-GB&mt=12) (*Paid*): My current menu bar app. Puts all menu bar items in an extra bar to not have it as crowded. I have used [iBar](https://apps.apple.com/de/app/ibar-pro-menubar-control-tool/id6737150304?l=en-GB&mt=12)(*Paid*) before, but refunded it because it had some really weird glitches and was 9,99€. Barbee is the best menu bar item manager I have found so far and costs only 3,99€. Alternatively there is of course [Ice](https://github.com/jordanbaird/Ice) (**Free, open source**) and I am still working on my fork that fixes **my** problems with it (new items getting moved in the extra bar by default instead of appearing in the menu bar by default, the weird right click menu on the menu bar, few other things), but right now I love Barbee and it works perfectly with basically zero resource impact on the pc at all. Ice uses more resources (still, not much). There is also [Bartender](https://www.youtube.com/watch?v=VM3uXu1Dq4c) (*Paid*) which was bought by the same [trash company](https://www.reddit.com/r/MacOS/comments/1dagrbp/the_last_app_bartenders_new_owners_applause_group/) that bough Strongbox.
+* [Barbee](https://apps.apple.com/de/app/barbee-hide-menu-bar-items/id1548711022?l=en-GB&mt=12) (*Paid*): My current menu bar app. Puts all menu bar items in an extra bar to not have it as crowded. I have used [iBar](https://apps.apple.com/de/app/ibar-pro-menubar-control-tool/id6737150304?l=en-GB&mt=12)(*Paid*) before, but refunded it because it had some really weird glitches and was 9,99€. Barbee is the best menu bar item manager I have found so far and costs only 3,99€. Alternatively there is of course [Ice](https://github.com/jordanbaird/Ice) (**Free, open source**), but right now I love Barbee and it works perfectly with basically zero resource impact on the pc at all. Ice uses more resources (still, not much). There is also [Bartender](https://www.youtube.com/watch?v=VM3uXu1Dq4c) (*Paid*) which was bought by the same [trash company](https://www.reddit.com/r/MacOS/comments/1dagrbp/the_last_app_bartenders_new_owners_applause_group/) that bough Strongbox.
 * [Dropclock](https://github.com/WrkX/Dropclock) (**Free, open source**, self promotion): My own App, a [Gestimer](https://apps.apple.com/de/app/gestimer-2/id6447125648?l=en-GB&mt=12) (*Paid*) alternative to create timers/reminders from the menubar. Simply drag and drop from the menu bar item to create a new timer/reminder.
 * [Lunar](https://lunar.fyi/) (**Freemium, open source**): App to change display stuff. I love it for the sub zero dimming so I can use it better while in bed. I have used [Better Display](https://github.com/waydabber/BetterDisplay) (**Freemium, open source**) before, but somehow when enableing HiDpi mode here my display randomly turned off and I had to disconnect it to get it working again. I guess thats a monitor problem, can recommend both.
 * [SaneSideButtons](https://github.com/thealpa/SaneSideButtons) (**Free, Open Source**): Forked version of abandoned SensibleSideButtons. Used to make the side buttons of the mouse work.
