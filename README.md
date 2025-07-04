@@ -2,7 +2,6 @@
 My App list from [Reddit](https://www.reddit.com/r/macapps/comments/1jea4ua/my_list_of_macos_apps_because_people_love_these)
 
 </br>
-</br>
 
 Apps marked with **!!** are newly added; please check [Updates](Updates.md) (for the most recent changes) and the Updates-old-X for only the added and removed apps, as well as those I've tried but don't use.
 
@@ -25,6 +24,7 @@ Apps marked with **!!** are newly added; please check [Updates](Updates.md) (for
 * [FolderPreview](https://apps.apple.com/de/app/folder-preview/id6698876601?l=en-GB&mt=12) (**Free**):  Randomly found this on the App Store. Allows your to use your preview on folders. Super handy, since I tried that all the time, but ofc it doesnt work out of the box.
 * [Rocket](https://matthewpalmer.net/rocket/) (**Freemium**): Forgot that in my og list, so not really new, but now I add it here. Basically allows you to easily add emojis. Raycast can do the same, or even the function key on a macbook, but I use Alfred and a normal keyboard, so I dont have that key. Instead, I type :: and a popup appears that lets me quickly access emojis. If you use emojis, try this. The free version should be more than enough for most, but if you wanna support the dev, buy the pro version. Alternatively you could use [Emoogle](https://www.emoogle.org/) (**Free, open source**), but it works a little different, so you will have to check if that works for your “workflow”.
 * [Artykul](https://artykul.org/) (**Freemium**): A beautiful RSS Reader. It is on the pricier side with ~  60€ (if you want the lifetime upgrade), but most RSS readers with its functionality are subscription based without a lifetime option or cost the same, e.g. [Feeder](https://reinventedsoftware.com/feeder/) (*Paid*) for 49€. Currently I am only using the free version, but I will upgrade soon I think!
+* **!!** [AlBattery](https://github.com/whuan132/AIBattery-Charge-Limiter) (**Free, open source**): [AlDente](https://apphousekitchen.com/), just as FOSS. Allows you to set limits for charging your MacBook to prevent battery damage. I thought it was unnecessary, and I’m still not sure if it’s really needed, but I suppose it won’t damage my battery, so why not use it. The only thing missing from AlDente seem to be the statistics, but I can live without them. I tested AlDente for a short time, then found this. So if you test this and see something important missing from it, hit me up. Maybe I will switch to AlDente then...
 
 </br>
 
@@ -39,8 +39,8 @@ Apps marked with **!!** are newly added; please check [Updates](Updates.md) (for
 # Gaming
 
 * [Moonlight](https://moonlight-stream.org/) (**Free, open source**): I have a beefy (Windows) gaming pc, so I use Moonlight so connect to my Apollo host. At home I have direct ethernet connection so I can stream it without any delay or bitrate problems. When I am on the go I use:
-* [Tailscale](https://tailscale.com/kb/1016/install-mac) (**Free**): So I can be on the same network without having to expose much. Simply log in on both devices and you are ready to go. Alternatively use ZeroTier One.
-* VirtualHere
+* [Tailscale](https://tailscale.com/kb/1016/install-mac) (**Free**): So I can be on the same network without having to expose much. Simply log in on both devices and you are ready to go. Alternatively use [ZeroTier One](https://www.zerotier.com/).
+* **!!** [VirtualHere](https://www.virtualhere.com/) (**Freemium**): Allows you to forward one device to another pc for free, otherwise you will have to pay. So what I do with it is forward my mouse to my gaming rig, since I find more and more problems that have problems with the emulated mouse from Moonlight. E.g. in Oblivion/Skyrim windows I cannot scroll, in Dune I cannot use quick menus etc. VirtualHere makes it so I connect my mouse to the other PC without having to disconnect it. While that is the case I can of course only move the mouse in Moonlight, not outside of it. I set up 2 hotkeys to quickly connect/disconnect, so that is no problem for me.
 
 </br>
 
@@ -56,12 +56,12 @@ Apps marked with **!!** are newly added; please check [Updates](Updates.md) (for
 * [PopClip](https://www.popclip.app/) (*Paid*): Great tool to use actions on text you marked. There are a lot of extensions you can simply [download](https://www.popclip.app/extensions/).  I use it so much and miss it the second I use a pc without it. Even if it is just for a quick translation or to google what I marked. Love it.
 * [Shottr](https://shottr.cc/) (**Freemium**): Screenshot tool. I got this and never tried another one. You can pay if you want to support development, but the free version has no limits. It just does everything I want from a screenshot app. **EDIT: you cannot create Captures and a Gradient background without paying.**
 * [RewriteBar](https://rewritebar.com/) (*Paid* or *Subscription*): It's an AI tool, mainly designed for grammar checking and improving writing. Just mark your text, press the hotkey that you’ve assigned, and either use one of the predefined actions or create your own ones. Super customizable and also way cheaper than Kerlig, which I will talk about in the “did not stay section”. They offer either the option to let you use their subscription, so you don't have to provide your own API key, or you use your own API keys for a one-time payment. This also does not seem to have an “update time limit” of a year, which is great. So far, very impressive. I found Kerlig earlier, which is why I used it until now, but I immediately went with RewriteBar. Thanks to the user on reddit who recommended it. Also has a PopClip extension that you can install from the app itself.
+* **!!** [Spokenly](https://spokenly.app/) (**Free**): My replacement for [VoiceInk](https://github.com/Beingpax/VoiceInk). VoiceInk is great, but Spokenly somehow works better for me. It is not open source... however, you can use local models, so I am fine with this. Also, it’s free and on the App Store, which is great. If you’re looking for something open source, give VoiceInk a try. Pay the few $$ for it and help out Pax building the app.
 
 </br>
 
 # Browsers
 * [Arc](https://arc.net/) (**Free**): The dead one. No more development. Still the browser I use the most. If they would have at least added the mac passkey support. Everything else I want from it works. [SigmaOs](https://sigmaos.com/) (**Freemium**) is the “alternative” but I am not sure if its still updated, never ever have I seen such an intransparent product.
-* [Orion](https://kagi.com/orion/) (**Free**): Webkit Browser with vertical Tabs. Gets updates regularly, I like it and use it whenevery I am on the go. And if I don’t accidentally use Safari anyway.
 * [Zen](https://zen-browser.app/) (**Free, open source**): Would be the best browser if it wouldnt be a Firefox fork. I hate Firefox with a passion. Will maybe switch to it once the features that are in also stay and dont get moved into the about:config settings or get removed completely.
 
 
@@ -72,7 +72,7 @@ Apps marked with **!!** are newly added; please check [Updates](Updates.md) (for
 * [Panda](https://community.bear.app/t/panda-update-new-beta-available-now/12054) (**Free**): It is, as far as I know, the markdown editor of Bear. I use it all the time when I want to edit some textfiles. Its of course not really supported since it was released to test the editor, so its just an old beta product.
 * [ProNotes](https://www.pronotes.app/) (**Freemium**): Basically allows Markdown in the Apple Notes app, has the option to add AI features etc. If you do not need AI features its free. Great app.
 * [Antinote](https://antinote.io/) (*Paid*): Antinote is the perfect “Scratchpad” notepad for me. I have it constantly running to calc or write down stuff before I clean it up and put into my notes app. Its a temporary note holder. Also, lovely developer, very active. Highly recommend it.
-* **!!** [Hyprnote](https://hyprnote.com/en) (**Free, open source**): This is a very interesting one. It's a note-taking app that can also record your meetings and stuff and use AI combined with your notes you take while doing the meeting to create summaries. You can also use it as a basic note-taking app, but there are so many more features that can help you with your work. So far, I couldn't try it because I was on vacation , but now I am back, so I'm definitely going to try it in real world scenarios. So far, it looks awesome, and I hope it is the way I think it is.
+* [Hyprnote](https://hyprnote.com/en) (**Free, open source**): This is a very interesting one. It's a note-taking app that can also record your meetings and stuff and use AI combined with your notes you take while doing the meeting to create summaries. You can also use it as a basic note-taking app, but there are so many more features that can help you with your work. So far, I couldn't try it because I was on vacation , but now I am back, so I'm definitely going to try it in real world scenarios. So far, it looks awesome, and I hope it is the way I think it is.
 
 
 </br>
@@ -81,14 +81,14 @@ Apps marked with **!!** are newly added; please check [Updates](Updates.md) (for
 
 * [Xcode](https://apps.apple.com/de/app/xcode/id497799835?l=en-GB&mt=12) (**Free**): Editor for Swift. No alternative. On my mac I only develop Swift so I don't have other IDEs.
 * [GitHub Copilot for Xcode](https://github.com/github/CopilotForXcode) (**Free** or *Subscription*, **open source**): It’s fine, sometimes helpful, sometimes produces trash. I mean, its AI.
-* **!!** [Fork](https://fork.dev/) (**Freemium**): Git GUI, you can test it for free for as long as you want (afaik). Simply awesome, I was struggling with the Xcode GitHub for the longest time, so I picked this up and it's great so far. Xcode always had problems with rebasing/merging for me, Fork worked immediately. Before I already tried [Tower](https://www.git-tower.com/mac) (*Subscrption*), but it's a subscription, and I don't need that in my life. Also, I don't really see any big difference between the two, so I prefer to pay once and get everything instead of paying every month.
+* [Fork](https://fork.dev/) (**Freemium**): Git GUI, you can test it for free for as long as you want (afaik). Simply awesome, I was struggling with the Xcode GitHub for the longest time, so I picked this up and it's great so far. Xcode always had problems with rebasing/merging for me, Fork worked immediately. Before I already tried [Tower](https://www.git-tower.com/mac) (*Subscrption*), but it's a subscription, and I don't need that in my life. Also, I don't really see any big difference between the two, so I prefer to pay once and get everything instead of paying every month.
 
 # Media & Entertainment
 
 * [Cronica](https://github.com/egger/cronica) (**Free, open source**): A Watchlist for movies and shows. Suggests based on shows. Comes in handy if you watch alot of stuff like my wife and me.
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) (**Free, open source**): A music tagger. I don’t use a music streaming service and this lets me easily tag, rename etc. my Music automatically. Life saver.
 * [Sleeve](https://apps.apple.com/de/app/sleeve-for-spotify-music/id1606145041?l=en-GB&mt=12) (*Paid*): A little music player widget I have on my desktop. 99% of the time it is useless for me, since I…. well… have stuff open. But whatever I guess. Looks great, very customizable. If you look at your desktop more often, maybe it is for you.
-* **!!** [IINA](https://iina.io/) (**Free, open source**): Known by everyone. While on vacation I was mostly off grid, so I had a few movies and shows downloaded. I tried IINA and [VLC Media Player](https://www.videolan.org/vlc/download-macosx.html) (**Free, open source**). I had IINA first, but randomly, while watching movies, my Macbook froze with the rainbow spin… like every 30 minutes. I was guessing it’s IINA because it never happened before. Well, turns out it also happens while watching with VLC. I had to be connected to the internet for it not happen, so I guess it is caused by Apple Inteligence. Not sure tho. So I went back to IINA because I prefer the interface.
+* [IINA](https://iina.io/) (**Free, open source**): Known by everyone. While on vacation I was mostly off grid, so I had a few movies and shows downloaded. I tried IINA and [VLC Media Player](https://www.videolan.org/vlc/download-macosx.html) (**Free, open source**). I had IINA first, but randomly, while watching movies, my Macbook froze with the rainbow spin… like every 30 minutes. I was guessing it’s IINA because it never happened before. Well, turns out it also happens while watching with VLC. I had to be connected to the internet for it not happen, so I guess it is caused by Apple Inteligence. Not sure tho. So I went back to IINA because I prefer the interface.
 
 </br>
 
