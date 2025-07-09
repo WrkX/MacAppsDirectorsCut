@@ -53,4 +53,4 @@ Did not need it for a long time, so I removed it.
 
 > [Orion](https://kagi.com/orion/) (**Free**): Webkit Browser with vertical Tabs. Gets updates regularly, I like it and use it whenevery I am on the go. And if I don’t accidentally use Safari anyway.
 
-The browser could be great, but everything breaks. There was a point at which I could no longer connect to any Google site. Extensions are most of the time not working as they should. Whenever something gets fixed, the next best thing breaks. I will check it again in 2-3 years. Only had it as a Safari replacement for the go, but I would rather use Safari than live with countless crashes.
+The browser could be great, but everything breaks. There was a point at which I could no longer connect to any Google site. Extensions are not working as they should most of the time. Whenever something gets fixed, the next best thing breaks. I will check it again in 2-3 years. Only had it as a Safari replacement for the go, but I would rather use Safari than live with countless crashes.
