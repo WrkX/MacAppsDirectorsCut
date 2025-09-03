@@ -1,0 +1,26 @@
+# Added
+
+* [AlDente](https://apphousekitchen.com/) (*Paid*): AlBattery had problems which I will explain further below. So I bought the lifetime AlDente thing for like 24€. Maybe it helps with the battery life, maybe it wont. I will see I guess...
+* [MiniWhisper](https://www.miniwhisper.app/) (**Freemium**): Currently in Testflight. I am testing this, but I am not sure if it will replace Spokenly for me... I really dont see any reason for it unless Spokenly is suddenly a russian spy that somehow made it into the app store. But so far it feels really good, just dont wanna pay for it as long as other free alternatives exist. That being said, the free tier seems to be very, very, very fair.
+</br>
+
+# Noteworthy updates to apps
+
+
+
+</br>
+
+# Apps I have tried that did not stay
+
+  
+</br>
+
+# Removed Apps
+> [AlBattery](https://github.com/whuan132/AIBattery-Charge-Limiter) (**Free, open source**): [AlDente](https://apphousekitchen.com/), just as FOSS. Allows you to set limits for charging your MacBook to prevent battery damage. I thought it was unnecessary, and I’m still not sure if it’s really needed, but I suppose it won’t damage my battery, so why not use it. The only thing missing from AlDente seem to be the statistics, but I can live without them. I tested AlDente for a short time, then found this. So if you test this and see something important missing from it, hit me up. Maybe I will switch to AlDente then...
+
+This basically 
+
+<br/>
+
+> * [Onit](https://www.getonit.ai/) (**Free, open source**): I talked about it for a few sentences in my latest [Update.md](https://github.com/WrkX/MacAppsDirectorsCut/blob/main/Updated.md). I said it is exactly what I want, except for the "presentation"... yeah, well. I fixed that. You can check what I did on [my fork](https://github.com/WrkX/onit), you just have to build it yourself. I "took" over the pinned mode. It is now a little overlay in the bottom right, the button is a floating circle. I removed some UI stuff that was unnecessary for me. [Looks like this](https://imgur.com/a/2jxrW41)
+
