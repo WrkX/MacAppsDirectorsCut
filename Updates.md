@@ -2,6 +2,7 @@
 
 * [AlDente](https://apphousekitchen.com/) (*Paid*): AlBattery had problems which I will explain further below. So I bought the lifetime AlDente thing for like 24€. Maybe it helps with the battery life, maybe it wont. I will see I guess...
 * [MiniWhisper](https://www.miniwhisper.app/) (**Freemium**): Currently in Testflight. I am testing this, but I am not sure if it will replace Spokenly for me... I really dont see any reason for it unless Spokenly is suddenly a russian spy that somehow made it into the app store. But so far it feels really good, just dont wanna pay for it as long as other free alternatives exist. That being said, the free tier seems to be very, very, very fair.
+* [Better Display](https://github.com/waydabber/BetterDisplay) (**Freemium, open source**): Great app that allows me to have additonal control over my monitor, including higher brightness. Awesome when working outside. 
 
 
 </br>
