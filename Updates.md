@@ -9,6 +9,8 @@
 
 # Noteworthy updates to apps
 
+*  [Alcove](https://tryalcove.com/) (*Paid*): The developer is back aaaaand he is pushing out updates like crazy. So yeah, very happy about this.
+  
 *  [Dia](https://www.diabrowser.com/) (**Free** or *Subscription*): Noteworthy, but in a negative sense. They added the subscription for the chat. And also vertical tabs (but the laziest implementation of them). As I said, I am not going to pay, so goodbye, Dia.
 
 
@@ -16,7 +18,7 @@
 
 # Apps I have tried that did not stay
 
-Nota
+[Nota](https://nota.md/) (**Paid**): Pretty sure it is electron based. Still on my notes journey. This is again not it. :)
   
 </br>
 
