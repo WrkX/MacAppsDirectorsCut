@@ -18,7 +18,7 @@
 
 # Apps I have tried that did not stay
 
-[Nota](https://nota.md/) (**Paid**): Pretty sure it is electron based. Still on my notes journey. This is again not it. :)
+* [Nota](https://nota.md/) (**Paid**): Pretty sure it is electron based. Still on my notes journey. This is again not it. :)
   
 </br>
 
