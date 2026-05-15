@@ -2,19 +2,19 @@
 
 *  [Brave Browser](https://brave.com/de/) (**Free, open source**): Everyone knows Brave. Not much to say. I am not into their weird crypto stuff, but it is great for what it is. I am currently not using this as my main Browser (anymore), but I still have it in case I wanna sync stuff to other devices (a big plus that it runs even on my Steam Deck, where it is my main browser).
 
-*  [Cotypist](https://cotypist.app/) (**Free**): Still on the fence about this. It should improve writing, by using a local running AI model and use whatever you opened/copied etc. to give suggestions when writing. Basically like Windows Recall, just that the data is stored locally. So far, the text suggestions were mediocre, but I continue as long as its free. Uses ~500MB of RAM, so its fine... Oh and while typing these Updates, the suggestions were great.
+*  [Cotypist](https://cotypist.app/) (**Free**): Still on the fence about this. It should improve writing, by using a local running AI model and use whatever you opened/copied etc. to give suggestions when writing. Basically like Windows Recall, just that the data is stored locally. So far, the text suggestions were mediocre, but I continue as long as its free. Uses ~500MB of RAM, so its fine... Oh and while typing these Updates, the suggestions were great. Update 2 weeks later: The suggestions are great now. So time really improves it.
 
-*  [Dia](https://www.diabrowser.com/) (**Free** or *Subscription*): UPS AND DOWN, I KNOW. I use, then I dont, then I use it again... I was using Brave for a long time and it is great. I mainly needed something to sync the tabs, but often times in Brave I had problems with youtube becoming unresponsive, buttons not working anymore... No problems with Dia. I dont use the AI chat, so its fine. Also, tabs became better.
+*  [Dia](https://www.diabrowser.com/) (**Free** or *Subscription*): UPS AND DOWN, I KNOW. I use, then I dont, then I use it again... I was using Brave for a long time and it is great. I mainly needed something to sync the tabs, but often times in Brave I had problems with youtube becoming unresponsive, buttons not working anymore... No problems with Dia. I dont use the AI chat, so its fine. Also, tabs became better. So yeah, pretty fine browser.
 
 *  [FluxMarkdown](https://github.com/xykong/flux-markdown) (**Free, open source**): Markdown rendering in Preview. It can do more than that, but to edit Markdown I mostly use Panda.
 
-*  [Gitea](https://about.gitea.com/) (**Free, open source**): Not really an application, but a local service. But i packed it into an .app and it automatically shuts down the service as soon as i close the app. Mostly use it for bug tracking in a work project.
+*  [Gitea](https://about.gitea.com/) (**Free, open source**): Not really an application, but a local service. But i packed it into an .app and it automatically shuts down the service as soon as i close the app. Mostly use it for bug tracking in a work project. Usually I use my selfhosted gitlab but in my office my own domain is blocked (lol), so for my work project I use Gitea locally.
 
 *  [Instapaper](https://apps.apple.com/de/app/instapaper/id288545208?l=en-GB) (**Free** or *Subscription*): A Read later app that you can use for free if you dont need AI stuff. I use to save links and make them accessible on **all** my devices. Sadly GoodLinks is only available for Apple devices, and currently I use and Android tablet, a Windows pc for gaming and a steamdeck for on the go... As soon as the foldable Iphone or a good IPad mini is out, I will use Goodlinks again, but until then I will use Instapaper. (If someone has a good way to sync goodlinks to another read later app, let me know!)
 
-*  [Poolsuite FM](https://apps.apple.com/de/app/poolsuite-fm/id1514817810?l=en-GB) (**Free**): Apart from the fact that https://poolsuite.net/ is an awesome looking website, the app is great. It is basically a radio app and since I dont use Spotify (I buy my music), this is great for when I dont want decide what to listen to. Just some chill music and a very cool looking app.
+*  [Poolsuite FM](https://apps.apple.com/de/app/poolsuite-fm/id1514817810?l=en-GB) (**Free**): Apart from the fact that https://poolsuite.net/ is an awesome looking website, the app is great. It is basically a radio app and since I dont use Spotify (I buy my music), this is great for when I dont want decide what to listen to. Just some chill music and a very cool looking app. Weirdly no volumn slider. Missing that desperately.
 
-*  [OwlOCR](https://apps.apple.com/us/app/owlocr/id6462355119) (**Free**): Just a great OCR tool.
+*  [OwlOCR](https://apps.apple.com/us/app/owlocr/id6462355119) (**Free**): Just a great OCR tool. But
 
 *  [SourceGit](https://sourcegit-scm.github.io/) (**Free, open source**): 
 
