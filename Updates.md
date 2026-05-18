@@ -124,3 +124,10 @@ Both of them were replaced by [Brave Browser](https://brave.com/de/) and [Dia](h
 > [calibre](https://calibre-ebook.com/) (**free, open source**): Ebook management. Nothing to explain.
 
 I selfhost [Grimmory](https://grimmory.org/). I use Grimmory to read on my Mac (if I do that), but since i mostly read on my phone/tablet, i just use [Readest](https://readest.com/) to get my ebooks through OPDS.
+
+<br/>
+<br/>
+
+> * [Dropover](https://apps.apple.com/de/app/dropover-easier-drag-drop/id1355679052?l=en-GB&mt=12) (**Freemium**): A handy drag and drop file helper. Similar to [Yoink](https://apps.apple.com/de/app/yoink-better-drag-and-drop/id457622435?l=en-GB&mt=12) (*paid*) or [Dropzone 4](https://apps.apple.com/de/app/dropzone-4-enhance-workflow/id1485052491?l=en-GB&mt=12) (*subscription* or *lifetime)*, but better (imo), cheaper and more premium looking. Super customizable and the free version is still great (you have to wait 3 seconds to access the shelf). Highly recommended for only 7,99€! Alternatively there is also [ShakePin](https://apps.apple.com/de/app/shakepin/id6599856142?l=en-GB&mt=12) (**Free, open source**) which would be what I would use if Dropover ever switches to a subscription model. Or if you dont want to spend money of course.
+
+I don't remember the last time i used it, so I deleted it.
