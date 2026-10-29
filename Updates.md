@@ -1,18 +1,19 @@
-# Updates
-
 Consolidated changelog: newest changes first, followed by the archived updates.
 
 ---
 
 ## Added
 
-<br/>
 
-## Noteworthy updates to apps
+=======
+* [tf](https://github.com/WrkX/tf) (**Free, open source**): My own dictation app. I had problems with all the other ones. Either they were slow, did not allow stuff I needed, bloated as hell, etc etc. So like a year ago (always forgot to update that here), I started this. Written in Rust ofc (I am actually a rust dev), with switftui for the settings. Binary size 2MB (was 1.5 but I added an icon when a colleague critiqued me), not like the 200mb for superwhisper. This one is like instant with everything. You needa compile it yourself tho, so better use something else, I just put it on gh incase my mbp dies.
 
-<br/>
+* [Vorssaint](https://vorssaint.com/) (**Free, open source**): What is there to say. I guess by now everyone heard it a thousand times. This in combination with Tinycast bascially replaced 50% of my apps. Sorry to the guy who opened the discussion that i closed. You we actually right. At the time I was not too happy, tbh, but a lot of improvements made this awesome. So yeah, I kinda replaced a lot of apps with this. If the screenshot and OCR tools become better I will remove Shottr, too. But right now they are kinda lacking still. But that is no complaint! I am sure all of this will be even better soon. Love it!
 
-## Apps I have tried that did not stay
+* [Tinycast](https://github.com/abue-ammar/tinycast) (**Free, open source**): Awesome app, maybe not so awesome dev. Luckily, since it is open source, we just fork it and move on. This replaced not only Alfred for me, but also Antinote, Maccy, and more. I also replaced my local running gitea that i only used to track issues/new features with my own [raycast extension](https://github.com/WrkX/Scope) that is bascially a copy of notion table dbs/github issues. Very nice. If I could only download 5 apps for my apps, this would be among them. (Tinycast, Vorssaint, Popclip, 1PW, Zed... before you ask, Popclip could be replaced by Alcove, I use them both a lot).
+
+* [Zed](https://zed.dev/) (**Free, open source**, *Subscription for AI*): UPDATE: I use [my own fork of Zed](https://github.com/WrkX/xed) now. I improved the stuff I thought were bad or missing, improved the visuals (at least I think so). So no more VSCode for me. UPDATE END. An IDE. Looks great, works great, prefer it over VSCode, except for its shitty Git integration (UPDATE: FIXED THAT, IT IS NOT SO HARD ZED devs?!?). If the git wouldnt be this bad, I would get rid of VS Code. Yes, yes I just mentioned SourceGit before, but i have some very small repos, for like Steam deck plugins etc. and I am to lazy to open a git gui just to check in a few things. Yes, Zed would be find for that, but you cannot commmit ranges. If you have edits in line 20-40, you can only commit that whole block. Sounds nitpicky, I know, but i use that a lot.
+>>>>>>> Stashed changes
 
 <br/>
 
@@ -98,6 +99,10 @@ The following updates are ordered newest → oldest. The chronology was inferred
 ### Added
 
 *  [Dia](https://www.diabrowser.com/) (**Free** or *Subscription*): UPS AND DOWN, I KNOW. I use, then I dont, then I use it again... I was using Brave for a long time and it is great. I mainly needed something to sync the tabs, but often times in Brave I had problems with youtube becoming unresponsive, buttons not working anymore... No problems with Dia. I dont use the AI chat, so its fine. Also, tabs became better. So yeah, pretty fine browser.
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 
 *  [Brave Browser](https://brave.com/de/) (**Free, open source**): Everyone knows Brave. Not much to say. I am not into their weird crypto stuff, but it is great for what it is. I am currently not using this as my main Browser (anymore), but I still have it in case I wanna sync stuff to other devices (a big plus that it runs even on my Steam Deck, where it is my main browser).
 
