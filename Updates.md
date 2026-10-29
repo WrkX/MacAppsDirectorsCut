@@ -4,8 +4,6 @@ Consolidated changelog: newest changes first, followed by the archived updates.
 
 ## Added
 
-
-=======
 * [tf](https://github.com/WrkX/tf) (**Free, open source**): My own dictation app. I had problems with all the other ones. Either they were slow, did not allow stuff I needed, bloated as hell, etc etc. So like a year ago (always forgot to update that here), I started this. Written in Rust ofc (I am actually a rust dev), with switftui for the settings. Binary size 2MB (was 1.5 but I added an icon when a colleague critiqued me), not like the 200mb for superwhisper. This one is like instant with everything. You needa compile it yourself tho, so better use something else, I just put it on gh incase my mbp dies.
 
 * [Vorssaint](https://vorssaint.com/) (**Free, open source**): What is there to say. I guess by now everyone heard it a thousand times. This in combination with Tinycast bascially replaced 50% of my apps. Sorry to the guy who opened the discussion that i closed. You we actually right. At the time I was not too happy, tbh, but a lot of improvements made this awesome. So yeah, I kinda replaced a lot of apps with this. If the screenshot and OCR tools become better I will remove Shottr, too. But right now they are kinda lacking still. But that is no complaint! I am sure all of this will be even better soon. Love it!
