@@ -76,3 +76,6 @@ Apps marked with **!!** are newly added; please check [Updates](Updates.md) for 
 * [Karabiner-Elements](https://karabiner-elements.pqrs.org/) (**Free, open source**): Great tool. Lets you customize how keyboards work, independently of each other. My Mac keyboard is set up diffently than my mechanical one. I also used it to replicate Hyperkey, without the need of an additional Application. A lot of useful stuff in here, all for free!
 
 </br>
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native Now Playing indicator beside the Dock.
